@@ -225,7 +225,7 @@ override fun onCleared() {
 
 ---
 
-# 📈 Key Engineering Highlights for Recruiters
+# 📈 Key Engineering Highlights
 
 ## 1. Edge AI Expertise
 
