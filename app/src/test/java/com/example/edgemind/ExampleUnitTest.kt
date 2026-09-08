@@ -1,4 +1,4 @@
-package com.example.edgemind
+package com.example.veyra
 
 import org.junit.Test
 

@@ -5,13 +5,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.edgemind"
+    namespace = "com.example.veyra"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.edgemind"
+        applicationId = "com.example.veyra"
         minSdk = 30
         targetSdk = 36
         versionCode = 1

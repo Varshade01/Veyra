@@ -1,4 +1,4 @@
-package com.example.edgemind.ui.theme
+package com.example.veyra.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

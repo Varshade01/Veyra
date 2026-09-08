@@ -1,4 +1,4 @@
-package com.example.edgemind.ui.theme
+package com.example.veyra.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
