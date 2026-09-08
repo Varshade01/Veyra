@@ -271,4 +271,3 @@ demonstrating expertise across Android, AI deployment, and model optimization.
 - On-Device Speech Recognition
 - On-Device LLM Summarization
 - Production-Level Memory Management
-- Recruiter-Ready Portfolio Project
