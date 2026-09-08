@@ -1,4 +1,4 @@
-package com.example.veyra
+package com.example.veyra.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
